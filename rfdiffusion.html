@@ -217,12 +217,11 @@ New-Item -ItemType Directory -Force -Path `
 }
 '@ | Set-Content -Encoding ascii .\configs\binder_design.json</code></pre></div>
 
-<h3>4.9. Download the cropped PDB into inputs/</h3>
+<h3>4.9. Download the cropped PDB into inputs</h3>
 <p>This downloads the workshop crop from the course GitHub repository. The file is saved with the exact name expected by the JSON configuration.</p>
 <div class="code-panel"><div class="code-head"><span>PowerShell · Download target PDB</span><button type="button" class="copy-code">Copy</button></div><pre><code>Invoke-WebRequest `
   -Uri "https://raw.githubusercontent.com/mohamadasadizade/Modern_Protein_Engineering/main/assets/4zxb_cropped.pdb" `
   -OutFile ".\inputs\4zxb_cropped.pdb"</code></pre></div>
-<p class="small-note">The repository file must be uploaded to <span class="inline-code">assets/4zxb_cropped.pdb</span> for this download link to work.</p>
 </section>
 
 <section id="run">
