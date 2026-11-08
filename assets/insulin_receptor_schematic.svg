@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1060" width="1600" height="1060" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiMWIzZTNhNC0zYjM4LTQyYTMtOTU3NS1lZmI4NWJiOWJiMzEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaAiofS/kGzHtaJ6GsNZeasMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyNjg5OWEyMi1mMzcwLTQ1OTktYTIwNy03OGUxZmY0ZDUxYWFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNolEqeYs5hqLfhf2CbUV60fAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggya+Njn902c0P3Blx6dSrA0xFvr2H7jXKeuTivPw+2amkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBePsFbybflk0R8uf7YRrOIAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBbxwpmJN0HZv4zP6c14NViWI5my0HPlbpWhM0/kE4032RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmIxYjNlM2E0LTNiMzgtNDJhMy05NTc1LWVmYjg1YmI5YmIzMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjhlOGJjMzM2LWNlNDQtNGVmNi1iNDkzLTQ2ZjZkZWNmOWI2OHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDJr42Of3TZzQ/cGXHp1KsDTEW+vYfuNcp65OK8/D7ZqaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg3JBdQrdSdQ/ddksO9Llsw8xpBknapeZvyUytbUoXmz6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg7r4RelJMaP4qzglCBQOHp97FCBL2gm9So1GSo/sPU3h0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDyDJ6so9Jf7c/qfZIzn7sj2iqctJPPSDqcaN0KZqNobBBJsdAzr7CHuRucUVWuYM17L9nmYxMznMrxIE7djUBA=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="gBlue" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6bb0ff"/><stop offset="1" stop-color="#2f6fd6"/></linearGradient>
+    <linearGradient id="gViolet" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8d6fdc"/><stop offset="1" stop-color="#5b3aa6"/></linearGradient>
+    <linearGradient id="gOrange" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffbe5c"/><stop offset="1" stop-color="#f08a00"/></linearGradient>
+    <linearGradient id="gCR" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cfa6f0"/><stop offset="1" stop-color="#a874de"/></linearGradient>
+    <linearGradient id="gL2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7cc0ff"/><stop offset="1" stop-color="#3f86e6"/></linearGradient>
+    <linearGradient id="gGreen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d8f2c4"/><stop offset="1" stop-color="#a6d885"/></linearGradient>
+    <linearGradient id="gTM" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a58be0"/><stop offset="1" stop-color="#7a58c8"/></linearGradient>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#14305a"/></marker>
+    <pattern id="lipid" width="14" height="56" patternUnits="userSpaceOnUse">
+      <circle cx="7" cy="7" r="5" fill="#8cc6ec" stroke="#4d9bd0" stroke-width="1"/>
+      <line x1="4.5" y1="13" x2="4.5" y2="43" stroke="#b5d9ef" stroke-width="2"/>
+      <line x1="9.5" y1="13" x2="9.5" y2="43" stroke="#b5d9ef" stroke-width="2"/>
+      <circle cx="7" cy="49" r="5" fill="#8cc6ec" stroke="#4d9bd0" stroke-width="1"/>
+    </pattern>
+    <polygon id="strand" points="-11,75 -11,-50 -21,-50 0,-90 21,-50 11,-50 11,75" fill="url(#gOrange)" stroke="#b85e00" stroke-width="1.5" stroke-linejoin="round"/>
+    <g id="mono">
+      <rect x="-26" y="440" width="52" height="160" rx="20" fill="url(#gViolet)" stroke="#3d2578" stroke-width="2"/>
+      <rect x="-50" y="185" width="100" height="290" rx="44" fill="url(#gBlue)" stroke="#1f4f9f" stroke-width="2.5"/>
+      <ellipse cx="-16" cy="250" rx="18" ry="40" fill="#fff" opacity="0.16"/>
+      <rect x="-13" y="585" width="26" height="82" rx="13" fill="url(#gTM)" stroke="#3d2578" stroke-width="2"/>
+      <g stroke="#fff" stroke-width="2" opacity="0.4" stroke-linecap="round">
+        <line x1="-8" y1="602" x2="8" y2="596"/><line x1="-8" y1="616" x2="8" y2="610"/><line x1="-8" y1="630" x2="8" y2="624"/><line x1="-8" y1="644" x2="8" y2="638"/><line x1="-8" y1="658" x2="8" y2="652"/>
+      </g>
+      <rect x="-8" y="662" width="16" height="50" rx="8" fill="#7d5fc8" stroke="#3d2578" stroke-width="2"/>
+      <rect x="-46" y="705" width="92" height="140" rx="46" fill="url(#gViolet)" stroke="#3d2578" stroke-width="2.5"/>
+      <path d="M-40,775 Q0,758 40,775" fill="none" stroke="#2b1a5e" stroke-width="2" opacity="0.5"/>
+      <ellipse cx="-16" cy="740" rx="14" ry="22" fill="#fff" opacity="0.14"/>
+      <circle cx="0" cy="330" r="20" fill="#14305a"/>
+      <text x="0" y="339" text-anchor="middle" font-size="24" font-weight="700" fill="#fff">α</text>
+      <circle cx="0" cy="790" r="20" fill="#2b1a5e"/>
+      <text x="0" y="799" text-anchor="middle" font-size="24" font-weight="700" fill="#fff">β</text>
+    </g>
+  </defs>
+
+  <rect width="1600" height="1060" fill="#ffffff"/>
+
+  <!-- Title -->
+  <rect x="20" y="20" width="520" height="60" rx="14" fill="#14305a"/>
+  <text x="280" y="62" text-anchor="middle" font-size="32" font-weight="700" fill="#fff">Insulin Receptor (INSR)</text>
+  <text x="565" y="58" font-size="19" fill="#5a6b85">From the full α₂β₂ receptor → the six ectodomain modules → the L1 design target</text>
+
+  <!-- Panels -->
+  <rect x="20" y="100" width="390" height="940" rx="18" fill="#f6f9ff" stroke="#c9d8ef" stroke-width="2"/>
+  <rect x="430" y="100" width="1150" height="530" rx="18" fill="#f9fbff" stroke="#c9d8ef" stroke-width="2"/>
+  <rect x="430" y="665" width="1150" height="375" rx="20" fill="#fff7ec" stroke="#f09a2a" stroke-width="2.5"/>
+
+  <!-- Zoom lines L1 → panel 3 -->
+  <g stroke="#f08a00" stroke-width="2.5" stroke-dasharray="9 6" fill="none">
+    <line x1="491" y1="386" x2="466" y2="702"/>
+    <line x1="614" y1="386" x2="829" y2="702"/>
+  </g>
+  <text x="577" y="470" text-anchor="middle" font-size="15" font-weight="700" font-style="italic" fill="#d97300">zoom in on L1</text>
+
+  <!-- ===================== PANEL 1 ===================== -->
+  <circle cx="46" cy="130" r="14" fill="#14305a"/><text x="46" y="136" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">1</text>
+  <text x="68" y="137" font-size="20" font-weight="700" fill="#14305a">Full receptor</text>
+  <text x="68" y="156" font-size="12.5" fill="#6b7a93">schematic, not to scale</text>
+
+  <!-- membrane -->
+  <rect x="146" y="590" width="252" height="56" rx="6" fill="url(#lipid)"/>
+
+  <!-- monomers -->
+  <use href="#mono" x="200" y="0"/>
+  <use href="#mono" x="320" y="0"/>
+  <!-- L1 on right monomer -->
+  <rect x="328" y="195" width="46" height="58" rx="21" fill="url(#gOrange)" stroke="#b85e00" stroke-width="2.5"/>
+  <text x="351" y="231" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">L1</text>
+  <!-- inter-alpha disulfides -->
+  <rect x="248" y="345" width="24" height="7" rx="3" fill="#f2c200" stroke="#b88f00"/>
+  <rect x="248" y="405" width="24" height="7" rx="3" fill="#f2c200" stroke="#b88f00"/>
+
+  <!-- left brackets + labels -->
+  <g fill="none" stroke="#333" stroke-width="2.2" stroke-linejoin="round">
+    <path d="M138,188 H130 V586 H138"/>
+    <path d="M138,590 H130 V646 H138"/>
+    <path d="M138,700 H130 V850 H138"/>
+  </g>
+  <g fill="#222" text-anchor="end">
+    <text x="120" y="372" font-size="14" font-weight="700">Ectodomain</text>
+    <text x="120" y="390" font-size="12">α-chain 1–719</text>
+    <text x="120" y="406" font-size="12">+ β 724–917</text>
+    <text x="120" y="614" font-size="14" font-weight="700">TM domain</text>
+    <text x="120" y="632" font-size="12">(β-chain)</text>
+    <text x="120" y="750" font-size="14" font-weight="700">Tyrosine</text>
+    <text x="120" y="768" font-size="14" font-weight="700">kinase</text>
+    <text x="120" y="786" font-size="12">(intracellular)</text>
+  </g>
+  <!-- right bracket + arrow to panel 2 -->
+  <path d="M388,188 H396 V586 H388" fill="none" stroke="#14305a" stroke-width="2.5"/>
+  <line x1="396" y1="386" x2="442" y2="386" stroke="#14305a" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <!-- legend -->
+  <rect x="40" y="880" width="16" height="16" rx="3" fill="#3b6fd4"/>
+  <text x="64" y="893" font-size="13" fill="#27364f">α-chain: extracellular only (1–719)</text>
+  <rect x="40" y="906" width="16" height="16" rx="3" fill="#6a45c2"/>
+  <text x="64" y="919" font-size="13" fill="#27364f">β-chain: 194-res. ectodomain + TM + JM + TK</text>
+  <rect x="40" y="936" width="16" height="8" rx="3" fill="#f2c200" stroke="#b88f00"/>
+  <text x="64" y="945" font-size="13" fill="#27364f">inter-α disulfides (Cys524; Cys682/683/685)</text>
+  <rect x="90" y="975" width="250" height="44" rx="22" fill="#e4e8f5"/>
+  <text x="215" y="1004" text-anchor="middle" font-size="20" font-weight="700" fill="#14305a">α₂β₂ heterotetramer</text>
+
+  <!-- ===================== PANEL 2 ===================== -->
+  <circle cx="460" cy="130" r="14" fill="#14305a"/><text x="460" y="136" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">2</text>
+  <text x="484" y="137" font-size="20" font-weight="700" fill="#14305a">Ectodomain: six domains per α-subunit (monomer)</text>
+  <text x="1560" y="137" text-anchor="end" font-size="13" fill="#6b7a93">mature IR-A numbering (signal peptide removed)</text>
+
+  <!-- chain bar (α / β) -->
+  <text x="1050" y="184" text-anchor="end" font-size="13" font-weight="700" fill="#14305a">αCT 704–719</text>
+  <text x="1080" y="184" font-size="13" font-weight="700" fill="#d81b60">Furin site RKRR 720–723</text>
+  <rect x="490" y="196" width="575" height="30" rx="4" fill="#3b6fd4"/>
+  <rect x="1053" y="196" width="12" height="30" fill="#14305a"/>
+  <text x="770" y="216" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">α-chain  1 – 719</text>
+  <rect x="1070" y="196" width="162" height="30" rx="4" fill="#6a45c2"/>
+  <rect x="1252" y="196" width="248" height="30" rx="4" fill="#6a45c2"/>
+  <text x="1376" y="216" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">β-chain  724 → C-terminus</text>
+  <g stroke="#555" stroke-width="2"><line x1="1237" y1="228" x2="1243" y2="194"/><line x1="1243" y1="228" x2="1249" y2="194"/></g>
+
+  <!-- topology brackets -->
+  <g fill="none" stroke="#14305a" stroke-width="2" stroke-linejoin="round">
+    <path d="M490,254 V246 H1224 V254"/>
+    <path d="M1262,254 V246 H1310 V254"/>
+    <path d="M1314,254 V246 H1500 V254"/>
+  </g>
+  <g font-size="13" font-weight="700" fill="#14305a" text-anchor="middle">
+    <text x="857" y="272">Extracellular – ectodomain (α-chain + β 724–917)</text>
+    <text x="1286" y="272">TM</text>
+    <text x="1407" y="272">JM + kinase (intracellular)</text>
+  </g>
+
+  <!-- ID bracket -->
+  <path d="M1000.4,308 V300 H1094.8 V308" fill="none" stroke="#2f6b1f" stroke-width="2" stroke-linejoin="round"/>
+  <text x="1047" y="292" text-anchor="middle" font-size="13" font-weight="700" fill="#2f6b1f" stroke="#f9fbff" stroke-width="5" paint-order="stroke">Insert domain (ID) 638–756 · IDα | IDβ</text>
+
+  <!-- domain boxes -->
+  <g font-weight="700" text-anchor="middle">
+    <rect x="491" y="312" width="123" height="70" rx="12" fill="url(#gOrange)" stroke="#d67300" stroke-width="2"/>
+    <text x="552" y="343" font-size="21" fill="#fff">L1</text><text x="552" y="366" font-size="14" font-weight="600" fill="#fff">1–157</text>
+
+    <rect x="618" y="312" width="118" height="70" rx="12" fill="url(#gCR)" stroke="#8a56c8" stroke-width="2"/>
+    <text x="677" y="343" font-size="21" fill="#fff">CR</text><text x="677" y="366" font-size="14" font-weight="600" fill="#fff">158–310</text>
+
+    <rect x="740" y="312" width="124" height="70" rx="12" fill="url(#gL2)" stroke="#2f6fd6" stroke-width="2"/>
+    <text x="802" y="343" font-size="21" fill="#fff">L2</text><text x="802" y="366" font-size="14" font-weight="600" fill="#fff">311–470</text>
+
+    <rect x="868" y="312" width="96" height="70" rx="12" fill="url(#gGreen)" stroke="#7fb85d" stroke-width="2"/>
+    <text x="916" y="343" font-size="19" fill="#25531a">FnIII-1</text><text x="916" y="366" font-size="14" font-weight="600" fill="#25531a">471–595</text>
+
+    <rect x="968" y="312" width="167" height="70" rx="12" fill="url(#gGreen)" stroke="#7fb85d" stroke-width="2"/>
+    <text x="1016" y="343" font-size="19" fill="#25531a">FnIII-2</text><text x="1016" y="366" font-size="14" font-weight="600" fill="#25531a">596–808</text>
+
+    <rect x="1139" y="312" width="74" height="70" rx="12" fill="url(#gGreen)" stroke="#7fb85d" stroke-width="2"/>
+    <text x="1176" y="343" font-size="17" fill="#25531a">FnIII-3</text><text x="1176" y="366" font-size="14" font-weight="600" fill="#25531a">809–906</text>
+
+    <rect x="1262" y="312" width="48" height="70" rx="10" fill="url(#gTM)" stroke="#4a2f8f" stroke-width="2"/>
+    <text x="1286" y="353" font-size="16" fill="#fff">TM</text>
+    <rect x="1312" y="312" width="38" height="70" rx="10" fill="url(#gTM)" stroke="#4a2f8f" stroke-width="2"/>
+    <text x="1331" y="353" font-size="16" fill="#fff">JM</text>
+    <rect x="1352" y="312" width="148" height="70" rx="10" fill="url(#gTM)" stroke="#4a2f8f" stroke-width="2"/>
+    <text x="1426" y="353" font-size="17" fill="#fff">Tyrosine kinase</text>
+  </g>
+  <!-- L1 highlight -->
+  <rect x="488" y="309" width="129" height="76" rx="14" fill="none" stroke="#e07000" stroke-width="3.5"/>
+  <!-- break between FnIII-3 and TM -->
+  <line x1="1215" y1="347" x2="1260" y2="347" stroke="#888" stroke-width="2" stroke-dasharray="4 4"/>
+  <g stroke="#555" stroke-width="2"><line x1="1232" y1="388" x2="1238" y2="306"/><line x1="1240" y1="388" x2="1246" y2="306"/></g>
+
+  <!-- furin cleavage line through chain bar and boxes -->
+  <line x1="1067.6" y1="190" x2="1067.6" y2="386" stroke="#d81b60" stroke-width="2.5" stroke-dasharray="6 3"/>
+
+  <!-- alpha-beta disulfide -->
+  <path d="M1007.6,388 Q1092.8,500 1178,388" fill="none" stroke="#b88f00" stroke-width="2.5"/>
+  <circle cx="1007.6" cy="386" r="5" fill="#f2c200" stroke="#8a6d00" stroke-width="1.5"/>
+  <circle cx="1178" cy="386" r="5" fill="#f2c200" stroke="#8a6d00" stroke-width="1.5"/>
+  <text x="1092.8" y="474" text-anchor="middle" font-size="13" font-weight="700" fill="#7a5f00">α–β disulfide: Cys647 – Cys860</text>
+
+  <!-- insulin-binding sites -->
+  <text x="880" y="508" font-size="12.5" fill="#6b7a93">Insulin-binding elements (literature)</text>
+  <rect x="880" y="518" width="330" height="44" rx="22" fill="#fff0db" stroke="#f0a040" stroke-width="2"/>
+  <circle cx="904" cy="540" r="8" fill="#f08a00"/>
+  <text x="922" y="545" font-size="14" font-weight="600" fill="#4a2b00">Site 1 · L1 central β-sheet + αCT</text>
+  <rect x="1230" y="518" width="330" height="44" rx="22" fill="#eaf7e0" stroke="#8fc46c" stroke-width="2"/>
+  <circle cx="1254" cy="540" r="8" fill="#7fb85d"/>
+  <text x="1272" y="545" font-size="14" font-weight="600" fill="#25531a">Site 2 · FnIII-1/FnIII-2 junction loops</text>
+
+  <!-- notes -->
+  <g font-size="11" fill="#6b7a93">
+    <text x="795" y="598">Numbering: mature IR-A (27-aa signal peptide removed). IR-B (+12 aa from exon 11, within αCT): α 1–731, RKRR 732–735, β 736–C-term.</text>
+    <text x="795" y="614">Sources: PNAS 2010 (PMID 20348418); Cys647–Cys860: Sparrow et al. 1997 (cited in IR/IGF-1R literature); encyclopedia.pub/entry/17749.</text>
+  </g>
+
+  <!-- ===================== PANEL 3 ===================== -->
+  <rect x="880" y="645" width="240" height="42" rx="12" fill="#a8530a"/>
+  <text x="1000" y="675" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">Design Target</text>
+
+  <!-- lens -->
+  <rect x="465" y="700" width="365" height="320" rx="26" fill="#ffffff" stroke="#f0a040" stroke-width="2.5"/>
+  <g fill="#ffcf94">
+    <ellipse cx="647" cy="858" rx="150" ry="125" opacity="0.40"/>
+    <ellipse cx="600" cy="830" rx="90" ry="80" opacity="0.30"/>
+    <ellipse cx="710" cy="890" rx="95" ry="80" opacity="0.30"/>
+  </g>
+  <!-- loops -->
+  <g fill="none" stroke="#f08a00" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M533,780 C508,792 500,845 525,880"/>
+    <path d="M598,773 C600,745 660,745 662,770"/>
+    <path d="M726,771 C730,745 784,745 786,776"/>
+    <path d="M610,926 C612,952 636,956 638,933"/>
+    <path d="M668,935 C670,958 695,958 697,932"/>
+    <path d="M724,938 C730,962 765,962 790,945"/>
+  </g>
+  <!-- strands -->
+  <use href="#strand" transform="translate(575,860) rotate(-28)"/>
+  <use href="#strand" transform="translate(620,860) rotate(-14)"/>
+  <use href="#strand" transform="translate(665,857) rotate(-2)"/>
+  <use href="#strand" transform="translate(710,858) rotate(10)"/>
+  <use href="#strand" transform="translate(752,865) rotate(22)"/>
+  <!-- termini -->
+  <circle cx="525" cy="882" r="9" fill="#f08a00" stroke="#b85e00" stroke-width="2"/>
+  <circle cx="790" cy="946" r="9" fill="#f08a00" stroke="#b85e00" stroke-width="2"/>
+  <text x="482" y="918" font-size="14" font-weight="700" fill="#6b3300">N · E6</text>
+  <text x="790" y="978" text-anchor="middle" font-size="14" font-weight="700" fill="#6b3300">C · E155</text>
+  <text x="647" y="1008" text-anchor="middle" font-size="11" fill="#8a7a66">schematic cartoon of the L1 fold (β-strands + loops), not a real structure</text>
+
+  <!-- right info -->
+  <rect x="880" y="712" width="340" height="46" rx="23" fill="#ffe2b3" stroke="#f0a040" stroke-width="2"/>
+  <text x="1050" y="743" text-anchor="middle" font-size="22" font-weight="700" fill="#6b3300">L1 domain · Chain E</text>
+  <text x="880" y="794" font-size="20" font-weight="700" fill="#14305a">Design target: residues E6 – E155 (150 aa)</text>
+
+  <rect x="880" y="830" width="600" height="28" rx="6" fill="#ffe9cc" stroke="#f0a040" stroke-width="1.5"/>
+  <rect x="899" y="830" width="570" height="28" rx="6" fill="url(#gOrange)"/>
+  <text x="1184" y="850" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">target segment E6–E155</text>
+  <g font-size="12.5" fill="#4a2b00" text-anchor="middle">
+    <text x="899" y="822">6</text><text x="1469" y="822">155</text>
+    <text x="880" y="880">1</text><text x="1480" y="880">157</text>
+    <text x="1180" y="880" fill="#8a7a66">L1 domain: residues 1–157 (α-chain)</text>
+  </g>
+
+  <g font-size="15.5" fill="#3b2a14">
+    <text x="880" y="930">•  Leucine-rich-repeat domain: single-stranded right-handed β-helix fold</text>
+    <text x="880" y="960">•  Part of insulin Site 1 (L1 central β-sheet + αCT 704–719 of the α-chain)</text>
+    <text x="880" y="990">•  Tutorial goal: design a de novo binder against this L1 segment</text>
+  </g>
+</svg>
