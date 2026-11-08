@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Academic course notes on computational protein modelling, AlphaFold and de novo binder design with RFdiffusion.">
+  <title>Computational Protein Design | Course Notes</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html"><span class="brand-mark">P</span><span>Protein Design<br><small>ACADEMIC COURSE NOTES</small></span></a>
+  <button class="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+  <nav class="top-links"><a href="#course">Course</a><a href="references.html">References</a><a class="github-link" href="https://github.com/" target="_blank" rel="noreferrer">GitHub ↗</a></nav>
+</header>
+<div class="layout">
+  <aside class="sidebar">
+    <div class="side-label">COURSE CONTENTS</div>
+    <a class="side-link active" href="index.html">Overview</a>
+    <div class="side-label">01 · FOUNDATIONS</div>
+    <a class="side-link" href="foundations.html#intro">Computational protein design</a>
+    <a class="side-link" href="foundations.html#approaches">Structure ↔ sequence</a>
+    <a class="side-link" href="foundations.html#deep-learning">Deep learning</a>
+    <a class="side-link" href="foundations.html#transformers">Transformers</a>
+    <a class="side-link" href="foundations.html#diffusion">Diffusion models</a>
+    <div class="side-label">02 · ALPHAFOLD</div>
+    <a class="side-link" href="alphafold.html#architecture">Architecture & concepts</a>
+    <a class="side-link" href="alphafold.html#prediction">Structure prediction</a>
+    <a class="side-link" href="alphafold.html#mutations">Mutation modelling</a>
+    <a class="side-link" href="alphafold.html#analysis">Result interpretation</a>
+    <div class="side-label">03 · RFDIFFUSION</div>
+    <a class="side-link" href="rfdiffusion.html#binding-sites">Binding-site prediction</a>
+    <a class="side-link" href="rfdiffusion.html#theory">How diffusion design works</a>
+    <a class="side-link" href="rfdiffusion.html#setup">Installation & setup</a>
+    <a class="side-link" href="rfdiffusion.html#binder-design">Binder design workshop</a>
+    <a class="side-link" href="rfdiffusion.html#mpnn">ProteinMPNN</a>
+    <a class="side-link" href="rfdiffusion.html#validation">Validation & analysis</a>
+    <a class="side-link" href="references.html">References & resources</a>
+  </aside>
+  <main class="content">
+    <div class="eyebrow">LECTURE NOTES · COMPUTATIONAL STRUCTURAL BIOLOGY</div>
+    <h1>Computational Protein<br><em>Modelling & Design</em></h1>
+    <p class="lead">From neural networks and protein language models to structure prediction and de novo binder design.</p>
+    <div class="hero-art" role="img" aria-label="Abstract protein structure illustration">
+      <div class="hero-orbit orbit-one"></div><div class="hero-orbit orbit-two"></div>
+      <div class="protein protein-a"></div><div class="protein protein-b"></div>
+      <div class="hero-caption">STRUCTURE · SEQUENCE · FUNCTION</div>
+    </div>
+    <div class="callout"><strong>About this course</strong><p>These notes accompany a practical course on modern computational approaches to protein modelling and design. The material is organised into three connected parts: foundational concepts, AlphaFold-based structure modelling, and generative binder design using RFdiffusion.</p></div>
+    <section id="course">
+      <div class="section-kicker">LEARNING PATH</div><h2>Course roadmap</h2>
+      <div class="cards">
+        <a class="course-card" href="foundations.html"><span class="card-number">01</span><span class="card-icon">⌘</span><h3>Foundations</h3><p>Computational protein design, structure–sequence relationships, deep learning, transformers and diffusion models.</p><span class="card-cta">Explore foundations →</span></a>
+        <a class="course-card" href="alphafold.html"><span class="card-number">02</span><span class="card-icon">⌬</span><h3>AlphaFold</h3><p>Understand the architecture, predict protein structures, explore mutation modelling and interpret confidence metrics.</p><span class="card-cta">Explore AlphaFold →</span></a>
+        <a class="course-card" href="rfdiffusion.html"><span class="card-number">03</span><span class="card-icon">✳</span><h3>RFdiffusion & binder design</h3><p>Binding-site concepts, diffusion-based backbone generation, conditional binder design, ProteinMPNN and validation.</p><span class="card-cta">Explore RFdiffusion →</span></a>
+      </div>
+    </section>
+    <section><div class="section-kicker">LEARNING OBJECTIVES</div><h2>By the end of the course</h2>
+      <ul class="check-list"><li>Explain the relationship between protein sequence, structure and function.</li><li>Describe how deep-learning architectures are used in structural biology.</li><li>Understand the main ideas behind AlphaFold and diffusion-based protein design.</li><li>Run guided structure-prediction and binder-design workflows.</li><li>Interpret computational outputs critically and recognise the need for experimental validation.</li></ul>
+    </section>
+    <div class="notice"><strong>Important scientific note</strong><p>Computational predictions and designed structures are hypotheses, not experimental proof of binding, stability or biological activity. Always interpret model confidence and validation results in context.</p></div>
+    <footer>Academic course notes · Computational Protein Modelling & Design <span>Educational material · 2026</span></footer>
+  </main>
+</div>
+<script src="assets/site.js"></script>
+</body></html>
